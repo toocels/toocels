@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Toocels</h1>
 <h3 align="center">A developer from Earth</h3>
 
-<p align="left"> <a href="https://twitter.com/toocels" target="blank"><img src="https://img.shields.io/twitter/follow/toocels?logo=twitter&style=for-the-badge" alt="toocels" /></a> </p>
-
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/toocels](https://github.com/toocels)
 
-- 📫 How to reach me **toocels@gmail.com**
+- 📫 Reach me at **toocels@gmail.com**
 
-- 📝 I regularly write articles on **A privately hosted website (💸Broke to buy domain)**
+- 📝 I regularly write articles on **A privately hosted website (💸Broke to buy a domain)**
 
-- 📄 Know about my experiences on **A privately hosted website (💸Broke to buy domain)**
+- 📄 Know about my experiences on **A privately hosted website (💸Broke to buy a domain)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
