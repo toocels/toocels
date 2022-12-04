@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/toocels?tab=repositories](here)
+- 👨‍💻 All of my projects are available at [here](https://github.com/toocels?tab=repositories)
 
 - 📫 Reach me at **toocels@gmail.com**
 
